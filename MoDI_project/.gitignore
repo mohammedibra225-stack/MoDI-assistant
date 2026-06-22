@@ -1,0 +1,19 @@
+# Configuration locale (contient ta clé API Hugging Face !)
+modi_config.json
+
+# Corbeille locale des fichiers supprimés par ModI
+.modi_corbeille/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Éditeurs / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
